@@ -5,3 +5,5 @@ These are examples of my work in data science using Excel, R, SQL, and PowerBI t
 * Used FitBit Fitness Tracker data from Amazon Mechanical Turk survey and hosted on Kaggle to analyze trends in fitness tracker usage to make business decisions for the wellness company Bellabeat.
 * Cleaned data in Excel and R, created visualizations in both
 * Found interesting insights in usage data, and relationships between BMI and manual tracking of weight, as well as steps versus calories burned. 
+
+	![](https://github.com/jeffreybarker07/Jeff_Portfolio/blob/main/images/BMI_manual_nonmanual.jpg)
