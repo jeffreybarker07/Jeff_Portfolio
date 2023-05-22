@@ -8,3 +8,4 @@ These are examples of my work in data science using Excel, R, SQL, and PowerBI t
 
 	![](https://github.com/jeffreybarker07/Jeff_Portfolio/blob/main/images/BMI_manual_nonmanual.jpg)
 	![](https://github.com/jeffreybarker07/Jeff_Portfolio/blob/main/images/steps_vs_calories_burned.jpeg)
+	![](https://github.com/jeffreybarker07/Jeff_Portfolio/blob/main/images/Users_tracked_weight.jpg?raw=true)
