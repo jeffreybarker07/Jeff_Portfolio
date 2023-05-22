@@ -7,3 +7,4 @@ These are examples of my work in data science using Excel, R, SQL, and PowerBI t
 * Found interesting insights in usage data, and relationships between BMI and manual tracking of weight, as well as steps versus calories burned. 
 
 	![](https://github.com/jeffreybarker07/Jeff_Portfolio/blob/main/images/BMI_manual_nonmanual.jpg)
+	![](https://github.com/jeffreybarker07/Jeff_Portfolio/blob/main/images/steps_vs_calories_burned.jpeg)
