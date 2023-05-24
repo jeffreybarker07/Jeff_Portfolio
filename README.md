@@ -2,8 +2,8 @@
 These are examples of my work in data science using Excel, R, SQL, and PowerBI to analyze data and solve business problems.
 
 # My Publications
-* ![Regulation of GABAA Receptor Subunit Expression in Substance Use Disorders](https://www.mdpi.com/1422-0067/21/12/4445)
-* ![Human ARHGEF9 intellectual disability syndrome is phenocopied by a mutation that disrupts collybistin binding to the GABAA receptor α2 subunit](https://www.nature.com/articles/s41380-022-01468-z)
+* [Regulation of GABAA Receptor Subunit Expression in Substance Use Disorders](https://www.mdpi.com/1422-0067/21/12/4445)
+* [Human ARHGEF9 intellectual disability syndrome is phenocopied by a mutation that disrupts collybistin binding to the GABAA receptor α2 subunit](https://www.nature.com/articles/s41380-022-01468-z)
 
 # Project 1 - Bellabeat Case Study: Project Overview
 * Used FitBit Fitness Tracker data from Amazon Mechanical Turk survey and hosted on Kaggle to analyze trends in fitness tracker usage to make business decisions for the wellness company Bellabeat.
